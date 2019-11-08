@@ -14,6 +14,5 @@ $ cd background-jobs-node/
 $ npm install
 
 $ docker-compose up //Redis
-$ npm run dev:server //API
-$ npm run dev:queue //Queue server
+$ npm run dev //API
 ```
