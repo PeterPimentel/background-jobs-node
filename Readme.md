@@ -6,6 +6,10 @@
     <img src="./docs/images/redis_logo.png" alt="React chat logo" width="90px"/>
 </p>
 
+An example setup with Express, bull, docker-compose and Redis.
+
+🛎 It is like a API that you can call from your app to execute background jobs
+
 #### How to use
 
 ```bash
